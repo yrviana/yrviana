@@ -1,7 +1,7 @@
 Hello 👋, My name is Yago Rodrigo manaus-am, I'm studying to become a web developer at the moment I'm studying HTML, CSS, JS. In my repository found some of the projects I'm doing. I hope you like it.
 About Me 🔭
 
-SUPORTE TÉCNICO
+SUPORTE TÉCNICO<br>
 Company: LANLINK
 
 These are some of the technologies and tools that I work with:
